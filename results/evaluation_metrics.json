@@ -1,0 +1,16 @@
+{
+    "dataset_dir": "data/barra_dataset",
+    "model": "MobileNetV2",
+    "pretrained_weights": "ImageNet",
+    "image_size": [
+        224,
+        224
+    ],
+    "classes": [
+        "botol",
+        "kubus",
+        "silinder"
+    ],
+    "test_loss": 0.37876391410827637,
+    "test_accuracy": 0.9166666865348816
+}
